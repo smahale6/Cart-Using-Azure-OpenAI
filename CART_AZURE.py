@@ -17,8 +17,8 @@ from src.fetch_complaints_api import fetch_compalints_class
 from src.classify_complaints import classify_complaints_class
 
 
-file_path = os.path.abspath("C:\GenAI\CART-Azure-IAAS")
-os.chdir(file_path)
+# file_path = os.path.abspath("C:\GenAI\CART-Azure-IAAS")
+# os.chdir(file_path)
 
 
 import warnings
